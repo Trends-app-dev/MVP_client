@@ -3,7 +3,6 @@
 	"private": true,
 	"version": "0.2.0",
 	"type": "module",
-	"homepage": "https://trends-app-dev.github.io/MVP_client/",
 	"scripts": {
 		"dev": "vite",
 		"predeploy": "npm run build",
